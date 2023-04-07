@@ -1,0 +1,83 @@
+body {
+    background-image: url(backgroundimage.jpg.jpg);
+    background-size: cover
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    color:brown;
+}
+
+li {
+    color: white;
+    border: 5px solid rgba(255, 176, 0, 0.1S);
+    cursor: pointer;
+    font-size: 150%;
+}
+
+p {
+    font-size: 170%;
+}
+
+h3, h5, p {
+    color: white;
+    cursor: pointer;
+}
+
+h2 {
+    color: azure;
+}
+
+
+form {
+    color: white;
+}
+
+.about {
+    font-style: italic;
+    font-size: 160%;
+    line-height: 50px;
+}
+
+
+#div1 {
+    background: rgba(red, green, blue, 0.2);
+}
+
+#div2 {
+    background: rgba(255, 176, 170, 0.2);
+}
+
+a:link {
+    -webkit-tab-highlight-color: blue;
+}
+
+a:visited {
+    color:purple;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+a:active {
+    color: red;
+}
+
+input:auto-fill {
+    outline: 5px solid rgba(255, 176, 0, 0.1S);
+}
+
+.image {
+    float: right;
+}
+
+
+footer {
+    clear: both;
+    text-align: center;
+    color: brown;
+}
