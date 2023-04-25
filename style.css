@@ -34,6 +34,7 @@ h2 {
 
 form {
     color: white;
+    padding: 1rem;
 }
 
 .about {
@@ -73,6 +74,7 @@ input:auto-fill {
 
 .image {
     float: right;
+    padding: 1rem;
 }
 
 
